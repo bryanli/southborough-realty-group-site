@@ -1,0 +1,85 @@
+{
+  "main": {
+    "companyName":"Southborough Realty Group, LLC",
+    "homeMessage":"Reliable partner to buy, sell and manage your real estate portfolio",
+    "leadAgentName":"Connie Huo",
+    "leadAgentPic":"Connie.jpg",
+    "email":"phuo@remax.net",
+    "phone":"617-955-1036",
+    "wechat":"Connie-1027",
+    "aboutUs":"Specialized in buying, selling and managing real estate in Boston and Massachusetts Metro West Area. Whether you are a firt time home buyer or investor, our specialists will be able to personalize a plan that meets your need. We also provide free real estate investing consultation based on your individual situation. Please feel free to content our agents if you have any question or if you want to schedule a free consultation.",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/tim.baker.906",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+
+  "upcomingRentals":{
+    "properties": [
+      {
+        "address":"Managed Property 1",
+        "rent":"1100",
+        "bbs":"2B/1B, 762 SQFT",
+        "availableDate":"TBD",
+        "image":"canadian-wanderlust.jpg"
+      },
+      {
+        "address":"Managed Property 2",
+        "rent":"1200",
+        "bbs":"2B/1B, 662 SQFT",
+        "availableDate":"TBD",
+        "image":"canadian-wanderlust.jpg"
+      },
+      {
+        "address":"Managed Property 3",
+        "rent":"950",
+        "bbs":"1B/1B, 662 SQFT",
+        "availableDate":"TBD",
+        "image":"canadian-wanderlust.jpg"
+      },
+      {
+        "address":"Managed Property 4",
+        "rent":"1400",
+        "bbs":"3B/1B, 962 SQFT",
+        "availableDate":"Jan/01/2020",
+        "image":"canadian-wanderlust.jpg"
+      }
+    ]
+  },
+
+  "announcements":{
+    "announcements":[
+      {
+        "text":"The Federal Reserve cut rate by 0.5%, making now the best time for real estate investing in years.",
+        "date":"Mar/03/2020"
+      },
+      {
+        "text":"The Chinese version of the website is almost ready! We encourage oversea investors to contact us for more investment opportunities.",
+        "date":"Nov/12/2019"
+      },
+      {
+        "text":"Welcome to Southborough Realty Group!",
+        "date":"Aug/20/2019"
+      }
+    ]
+  }
+}
