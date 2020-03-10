@@ -36,32 +36,32 @@
   "upcomingRentals":{
     "properties": [
       {
-        "address":"Managed Property 1",
-        "rent":"1100",
-        "bbs":"2B/1B, 762 SQFT",
-        "availableDate":"TBD",
-        "image":"canadian-wanderlust.jpg"
+        "address":"4 Park Ave Pl, #12, Worcester, MA",
+        "rent":"1250",
+        "bbs":"2B/1B, 854 SQFT",
+        "availableDate":"June 1st, 2020",
+        "image":"4parkAve12.jpg"
       },
       {
-        "address":"Managed Property 2",
-        "rent":"1200",
-        "bbs":"2B/1B, 662 SQFT",
-        "availableDate":"TBD",
-        "image":"canadian-wanderlust.jpg"
+        "address":"10 Hulbert Rd, #13, Worcester, MA",
+        "rent":"1300",
+        "bbs":"2B/1B, 852 SQFT",
+        "availableDate":"Dec 1st, 2020",
+        "image":"10Hulbert13.jpg"
       },
       {
-        "address":"Managed Property 3",
+        "address":"3 Hampden St, #1C, Worcester, MA",
         "rent":"950",
-        "bbs":"1B/1B, 662 SQFT",
+        "bbs":"1B/1B, 547 SQFT",
         "availableDate":"TBD",
-        "image":"canadian-wanderlust.jpg"
+        "image":"3Hampden1.jpg"
       },
       {
-        "address":"Managed Property 4",
-        "rent":"1400",
-        "bbs":"3B/1B, 962 SQFT",
-        "availableDate":"Jan/01/2020",
-        "image":"canadian-wanderlust.jpg"
+        "address":"146 Pierce St, Malden, MA",
+        "rent":"2800",
+        "bbs":"4B/2B, 1912 SQFT",
+        "availableDate":"TBD",
+        "image":"146Pierce.jpg"
       }
     ]
   },
