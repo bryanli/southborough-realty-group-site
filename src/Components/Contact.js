@@ -5,7 +5,6 @@ class Contact extends Component {
 
         if(this.props.data){
             var name = this.props.data.leadAgentName;
-            var phone= this.props.data.phone;
             var email = this.props.data.email;
             var wechat = this.props.data.wechat
             var profilepic= "images/"+this.props.data.leadAgentPic;
@@ -64,7 +63,6 @@ class Contact extends Component {
                   <img src={profilepic} alt="Lead Agent Profile Pic" width="150" height="150" />
                   <p className="address">
                     {name}<br />
-                    <span>Phone: {phone}</span> <br />
                     <span>Email: {email}</span> <br />
                     <span>WeChat: {wechat}</span>
                   </p>

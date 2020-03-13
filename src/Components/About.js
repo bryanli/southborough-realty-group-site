@@ -7,7 +7,6 @@ class About extends Component {
       var name = this.props.data.leadAgentName;
       var profilepic= "images/"+this.props.data.leadAgentPic;
       var bio = this.props.data.aboutUs;
-      var phone= this.props.data.phone;
       var email = this.props.data.email;
       var wechat = this.props.data.wechat;
     }
@@ -27,7 +26,6 @@ class About extends Component {
                   <h2>Contact Details</h2>
                   <p className="address">
 						   <span>{name} (Lead Agent)</span><br />
-						   <span>Phone : {phone}</span><br />
                            <span>Email : {email}</span><br />
                            <span>WeChat : {wechat}</span>
 					   </p>
