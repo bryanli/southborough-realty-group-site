@@ -24,11 +24,12 @@ class About extends Component {
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
-                  <p className="address">
-						   <span>{name} (Lead Agent)</span><br />
-                           <span>Email : {email}</span><br />
-                           <span>WeChat : {wechat}</span>
-					   </p>
+                     <p className="address">
+                        <img className="inline-profile-pic"  src={profilepic} alt="Lead Agent Profile Pic" />
+					    <span>{name} (Lead Agent)</span><br />
+                        <span>Email : {email}</span><br />
+                        <span>WeChat : {wechat}</span>
+                     </p>
                </div>
                <div className="columns qr">
                   <img className="qr-pic" src={"images/QR.jpg"} alt="Lead Agent WeChat QR code" />

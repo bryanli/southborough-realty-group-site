@@ -216,9 +216,20 @@
    /* About Section
    -------------------------------------------------------------------- */
    #about .profile-pic { display: none; }
-   #about .qr-pic {
+
+   #about .inline-profile-pic {
+      margin-bottom: 10px;
+      margin-top: 10px;
+      display: block;
       width: 160px;
       height: 160px;
+      border-radius: 100%;
+   }
+
+   #about .qr {
+      display: none;
+      width: 120px;
+      height: 120px;
    }
 
    #about .main-col { padding-right: 30px; }
