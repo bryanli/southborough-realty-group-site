@@ -31,9 +31,7 @@ class About extends Component {
 					   </p>
                </div>
                <div className="columns qr">
-                  <p>
-                     <img className="qr-pic" src={"images/QR.jpg"} alt="Lead Agent WeChat QR code" />
-                  </p>
+                  <img className="qr-pic" src={"images/QR.jpg"} alt="Lead Agent WeChat QR code" />
                </div>
             </div>
          </div>
