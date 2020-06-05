@@ -23,7 +23,7 @@
         "address":"4 Park Ave Pl, Worcester, MA",
         "rent":"1250",
         "bbs":"2B/1B, 854 SQFT",
-        "availableDate":"June 1st, 2020",
+        "availableDate":"Dec 1st, 2020",
         "image":"4ParkAve12.jpg"
       },
       {
@@ -46,7 +46,14 @@
         "bbs":"4B/2B, 1912 SQFT",
         "availableDate":"TBD",
         "image":"146Pierce.jpg"
-      }
+      },
+      {
+        "address":"56 Phipps St, Quincy, MA",
+        "rent":"1400",
+        "bbs":"1B/1B, 658 SQFT",
+        "availableDate":"June 1st,2021",
+        "image":"56PhippsSt.jpg"
+      },
     ]
   },
 
