@@ -27,6 +27,7 @@ class About extends Component {
                      <p className="address">
                         <img className="inline-profile-pic"  src={profilepic} alt="Lead Agent Profile Pic" />
 					    <span>{name} (Lead Agent)</span><br />
+					    <span>波士顿地产中介</span><br />
                         <span>Email : {email}</span><br />
                         <span>WeChat : {wechat}</span>
                      </p>

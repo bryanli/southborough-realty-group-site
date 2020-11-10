@@ -23,15 +23,22 @@
         "address":"4 Park Ave Pl, Worcester, MA",
         "rent":"1250",
         "bbs":"2B/1B, 854 SQFT",
-        "availableDate":"Dec 1st, 2020",
+        "availableDate":"June 1st, 2021",
         "image":"4ParkAve12.jpg"
       },
       {
         "address":"10 Hulbert Rd, Worcester, MA",
-        "rent":"1300",
+        "rent":"1350",
         "bbs":"2B/1B, 852 SQFT",
         "availableDate":"Dec 1st, 2020",
         "image":"10Hulbert13.jpg"
+      },
+      {
+        "address":"22 Hollywood St, Worcester, MA",
+        "rent":"1400",
+        "bbs":"3B/1B, 970 SQFT",
+        "availableDate":"Dec 1st, 2020",
+        "image":"22Hollywood.jpg"
       },
       {
         "address":"3 Hampden St, Worcester, MA",
@@ -39,6 +46,13 @@
         "bbs":"1B/1B, 547 SQFT",
         "availableDate":"TBD",
         "image":"3Hampden1.jpg"
+      },
+      {
+        "address":"11 Eliot St, Somerville, MA",
+        "rent":"2250",
+        "bbs":"2B/1B, 1000 SQFT",
+        "availableDate":"Nov 15th, 2020",
+        "image":"11Eliot.jpg"
       },
       {
         "address":"146 Pierce St, Malden, MA",
